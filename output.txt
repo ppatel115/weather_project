@@ -1,0 +1,5 @@
+City: Gainesville, FL
+Predicted High Temperature: 82.78997965412005
+Predicted Low Temperature: 55.10422548577666
+Predicted Max Wind Speed: 12.63600673022995
+Predicted Conditions: Clear

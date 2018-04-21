@@ -1,0 +1,11 @@
+date,sw_high,sw_low,sw_conditions,sw_maxwind,sw_maxhumidity,sw_minhumidity,se_high,se_low,se_conditions,se_maxwind,se_maxhumidity,se_minhumidity,nw_high,nw_low,nw_conditions,nw_maxwind,nw_maxhumidity,nw_minhumidity,ne_high,ne_low,ne_conditions,ne_maxwind,ne_maxhumidity,ne_minhumidity,gainesville_high,gainesville_low,gainesville_conditions,gainesville_maxwind,gainesville_maxhumidity,gainesville_minhumidity
+"7:00 PM EDT on April 18, 2018",80,55,Clear,20,0,0,86,56,Clear,14,0,0,84,57,Clear,17,0,0,86,54,Clear,10,0,0,83,56,Clear,0,0,0
+"7:00 PM EDT on April 19, 2018",81,55,Clear,20,0,0,84,58,Clear,15,0,0,83,53,Clear,15,0,0,85,54,Clear,15,0,0,84,55,Clear,20,0,0
+"7:00 PM EDT on April 20, 2018",75,54,Mostly Cloudy,15,0,0,72,57,Mostly Cloudy,20,0,0,75,51,Partly Cloudy,20,0,0,69,50,Partly Cloudy,20,0,0,73,54,Partly Cloudy,20,0,0
+"7:00 PM EDT on April 21, 2018",76,60,Mostly Cloudy,15,0,0,74,62,Mostly Cloudy,15,0,0,76,59,Partly Cloudy,15,0,0,73,58,Partly Cloudy,20,0,0,75,60,Mostly Cloudy,20,0,0
+"7:00 PM EDT on April 22, 2018",78,64,Thunderstorm,15,0,0,75,64,Chance of a Thunderstorm,20,0,0,74,63,Chance of Rain,15,0,0,71,62,Chance of Rain,20,0,0,75,64,Chance of a Thunderstorm,20,0,0
+"7:00 PM EDT on April 23, 2018",79,61,Thunderstorm,15,0,0,77,61,Thunderstorm,15,0,0,77,61,Thunderstorm,15,0,0,78,59,Thunderstorm,20,0,0,78,61,Thunderstorm,15,0,0
+"7:00 PM EDT on April 24, 2018",76,58,Chance of Rain,15,0,0,78,59,Chance of Rain,10,0,0,76,57,Chance of Rain,10,0,0,76,56,Chance of Rain,10,0,0,77,58,Chance of Rain,10,0,0
+"7:00 PM EDT on April 25, 2018",77,56,Clear,20,0,0,78,56,Partly Cloudy,15,0,0,77,54,Partly Cloudy,10,0,0,77,53,Partly Cloudy,15,0,0,78,56,Clear,15,0,0
+"7:00 PM EDT on April 26, 2018",76,55,Clear,10,0,0,77,56,Partly Cloudy,10,0,0,77,54,Partly Cloudy,10,0,0,77,53,Partly Cloudy,10,0,0,77,55,Clear,10,0,0
+"7:00 PM EDT on April 27, 2018",78,56,Partly Cloudy,10,0,0,78,58,Partly Cloudy,10,0,0,78,56,Clear,10,0,0,77,55,Partly Cloudy,10,0,0,78,57,Partly Cloudy,10,0,0
